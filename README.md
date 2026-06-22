@@ -6,11 +6,11 @@
 
 Estudante de Engenharia da Computação com foco em sistemas embarcados, engenharia de software e desenvolvimento de soluções que integram hardware e software.
 
-💡 Gosto de transformar ideias em projetos reais, explorando desde microcontroladores até aplicações web.
+💡 Tenho interesse em transformar ideias em projetos reais, explorando tanto a parte de hardware quanto de software.
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Áreas de interesse
 
 - 🔧 Sistemas embarcados (ESP32, Arduino)
 - 💻 Engenharia de Software
@@ -36,12 +36,9 @@ Estudante de Engenharia da Computação com foco em sistemas embarcados, engenha
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Em aprendizado contínuo
 
-- 🤖 Robô seguidor de linha com controle PID e sensores QTR
-- ⚡ Projetos com ESP32 para automação e sistemas embarcados
-- 🌐 Aplicações web e mobile em desenvolvimento
-- 🔬 Experimentos em controle e eletrônica aplicada
+Atualmente desenvolvendo habilidades práticas em projetos pessoais nas áreas de sistemas embarcados, automação e desenvolvimento de software.
 
 ---
 
